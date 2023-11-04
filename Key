@@ -100,7 +100,7 @@ SubmitButton.MouseButton1Click:Connect(function()
 screenGui:Destroy()
 
 --Your Script
-  
+  loadstring(game:HttpGet("https://github.com/Tech-cells/ScriptHub/blob/main/Script.TH",true))();
   end
 end)
 
